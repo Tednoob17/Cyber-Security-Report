@@ -2,9 +2,9 @@
 #j3kyll
 #PATH :~/Vidéos/Hyd3-100Days/Ted_2.0/Security-Advanced/JEI-CTF-master/
 
-#ANALYSE AND RECIVED KNOWLEDGES
+## ANALYSE AND RECIVED KNOWLEDGES
 
-#
+## 
 1-PATH:/home/j3kyll/Vidéos/Hyd3-100Days/Ted_2.0/Security-Advanced/JEI-CTF-master/Prequals
 
 If you get the pcap files start with the filtrage (dns or ftp)
