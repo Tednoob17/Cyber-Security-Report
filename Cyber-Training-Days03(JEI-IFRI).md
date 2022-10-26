@@ -2,18 +2,18 @@
 #j3kyll
 #PATH :~/Vidéos/Hyd3-100Days/Ted_2.0/Security-Advanced/JEI-CTF-master/
 
-#
+## 
 1-PATH:/home/j3kyll/Vidéos/Hyd3-100Days/Ted_2.0/Security-Advanced/JEI-CTF-master/Finals
-
+## 
 I-CRYPTO
 
 1-*Affine*
-The cryptography encrypted use one functions who walks with a ,and b two variables contains the integer
--Skills exemple:
-A-https://www.dcode.fr/chiffre-affine
-B-https://gchq.github.io/CyberChef/
+The cryptography encrypted use one functions who walks with a ,and b two variables contains the integer </br>
+-Skills exemple:</br>
+A-(`https://www.dcode.fr/chiffre-affine`)
+B-(`https://gchq.github.io/CyberChef/`)
 
-2-
+2- 
 WHEN YOU RECEIVE A ENCRYPTED MESSAGE or encrypted files and you see the key search to translate  totaly this message
 If you receive one pictures contain the indescriptible langage (dancing men cypher,FOOTPRINT ALPHABET ,chiffre-arthur-minimoys)
 going to (&A,&B)
