@@ -10,29 +10,29 @@ I-CRYPTO
 1-*Affine*
 The cryptography encrypted use one functions who walks with a ,and b two variables contains the integer </br>
 -Skills exemple:</br>
-A-(`https://www.dcode.fr/chiffre-affine`)
-B-(`https://gchq.github.io/CyberChef/`)
+A-(`https://www.dcode.fr/chiffre-affine`)</br>
+B-(`https://gchq.github.io/CyberChef/`)</br>
 
 2- 
-WHEN YOU RECEIVE A ENCRYPTED MESSAGE or encrypted files and you see the key search to translate  totaly this message
-If you receive one pictures contain the indescriptible langage (dancing men cypher,FOOTPRINT ALPHABET ,chiffre-arthur-minimoys)
-going to (&A,&B)
-3-The title of challenge should give yo one idea 
-ex:
-Mirror for ' miror cypher atbash'
-Arthur for 'chiffre-arthur-minimoys'
-Caius Julius for 'cesar cipher'
-Whatthefuck for 'langage-brainfuck'
-Presque esclave for 'vigenere AUTOCLAVE'
-Vie en rose for 'vigenere rozier'
+WHEN YOU RECEIVE A ENCRYPTED MESSAGE or encrypted files and you see the key search to translate  totaly this message </br>
+If you receive one pictures contain the indescriptible langage (dancing men cypher,FOOTPRINT ALPHABET ,chiffre-arthur-minimoys)</br>
+going to (&A,&B)</br>
+3-The title of challenge should give yo one idea </br>
+ex:</br>
+` 
+Mirror for ' miror cypher atbash'</br>
+Arthur for 'chiffre-arthur-minimoys'</br>
+Caius Julius for 'cesar cipher'</br>
+Whatthefuck for 'langage-brainfuck'</br>
+Presque esclave for 'vigenere AUTOCLAVE'</br>
+Vie en rose for 'vigenere rozier'</br>
+`
 4-
-The text encrypted with a key (no asymetric cypher) ,
-Ex:
-vigenere
-the time in time the name of ctf begin format would help you 
+The text encrypted with a key (no asymetric cypher) ,</br>
+Ex: </br>
+vigenere  the time in time the name of ctf begin format would help you </br>
 Ex: 
-flag_format:JeiCtf_{flag}
-Text encrypted:JWLKFTPRZPYYEFUIMNEJ
-In the case the decrypted text would contain the 'JeiCtf' , you don't have the 'key' so you use the bruteforce and you specifie than the 
-text decrypted contain JeiCtf(break)
-II-
+`flag_format:JeiCtf_{flag}` </br>
+Text encrypted: `JWLKFTPRZPYYEFUIMNEJ` </br>
+In the case the decrypted text would contain the `'JeiCtf'` , you don't have the 'key' so you use the bruteforce and you specifie </br> than the text decrypted contain JeiCtf(break)
+
